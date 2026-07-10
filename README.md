@@ -4,7 +4,7 @@
 
 <h3 align="center">🚀 Building Production-Grade Web Applications & AI-Powered Tools</h3>
 <p align="center">
-  B.Tech CSE @ MDU Delhi • Next.js Specialist • Open-Source Author • Open to Remote Opportunities
+  B.Tech CSE @ MDU • Next.js Specialist • Open-Source Author • Open to Remote Opportunities
 </p>
 
 <p align="center">
@@ -87,7 +87,7 @@ console.log(reply);
 ### 🏥 Healthcare Support Platform (RAG Implementation)
 **Status:** ✅ Deployed • **Stack:** Next.js 16, Google Gemini 2.5 Flash, RAG, Zod, React Hook Form
 
-- Built an intelligent healthcare app leveraging a RAG pipeline to feed contextually relevant FAQs directly to Google Gemini 2.5 Flash.
+- Built an intelligent healthcare app leveraging an RAG pipeline to feed contextually relevant FAQs directly to Google Gemini 2.5 Flash.
 - Implemented real-time streaming API responses, patient/volunteer registration, and appointment booking modules.
 
 [![Live Demo](https://img.shields.io/badge/Live-intern--asset.netlify.app-00C7B7?logo=netlify)](https://intern-asset.netlify.app)
@@ -163,9 +163,9 @@ console.log(reply);
 
 ## 🎓 Education
 
-- **B.Tech in Computer Science** – Maharshi Dayanand University (MDU), Delhi
+- **B.Tech in Computer Science** – Maharshi Dayanand University (MDU)
   - Focus: Web Technologies, AI/ML, Wireless Communications
-  - Status: Pursuing (6th Semester)
+  - Status: Pursuing (7th Semester)
 
 - **Higher Secondary Education** – DSM Public Sr. Sec. School, Delhi (2023)
 
@@ -177,7 +177,7 @@ console.log(reply);
 - **Technical:** Next.js ecosystem, Prisma + PostgreSQL, REST APIs, real-time features (Socket.io, WebRTC), E2E encryption, 2FA, SSR, multi-tenant SaaS.
 - **DevOps:** Docker, GitHub Actions CI/CD, Vercel, Netlify, Render, Nginx, Cloudinary.
 - **Testing:** Vitest, Playwright, Jest, React Testing Library.
-- **Soft Skills:** Leadership, effective communication, problem solving, strategic planning.
+- **Soft Skills:** Leadership, effective communication, problem-solving, strategic planning.
 
 ---
 
